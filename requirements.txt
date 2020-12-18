@@ -1,0 +1,8 @@
+numpy
+ipywidgets
+nbinteract
+voila
+voila-gridstack
+pandas
+pywedge
+mlflow
